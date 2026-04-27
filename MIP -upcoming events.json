@@ -1,9 +1,14 @@
 {
-  "events": {
-    "event1": {
+  "events": [
+    {
       "date": "2026-07-29",
       "link": "https://www.facebook.com/ishwariyaprerna/",
       "title": "Guru Purnima"
+    },
+    {
+      "date": "2026-08-15",
+      "link": "https://example.com",
+      "title": "Independence Day"
     }
-  }
+  ]
 }
